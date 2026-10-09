@@ -1,0 +1,8 @@
+TABLERO DE MOVILIDAD
+
+1. Descomprime este ZIP.
+2. En Netlify, arrastra la carpeta que contiene index.html a la zona de despliegue manual.
+3. Para actualizar los datos, usa el botón de cargar Excel del tablero.
+
+Incluye las exclusiones de Tubara, VIP, APOYO RIOMAR SOLEDAD (nom_gru) y TM26022 (placas).
+Las cargas de Excel se conservan en el navegador donde se realizan.
